@@ -30,8 +30,8 @@ public class GameManager : MonoBehaviour
     {
         Debug.Log("The Start button has been hit");
         Instantiate(player);
-        SceneManager.LoadScene("Scenes/Level1", LoadSceneMode.Single);
         player.transform.position = new Vector3(-12.61f,1.1f,-13f);
+        SceneManager.LoadScene("Scenes/Level1", LoadSceneMode.Single);
     }
 
     
