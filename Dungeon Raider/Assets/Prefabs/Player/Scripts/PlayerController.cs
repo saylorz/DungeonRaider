@@ -113,6 +113,9 @@ public class PlayerController : MonoBehaviour
             manager.GetComponent<GameManager>().loadL3();
             this.transform.position = new Vector3(-13,1,-12);
         }
+
+        rb.velocity = Vector3.zero;
+        rb.angularVelocity = Vector3.zero;
     }
 
 
