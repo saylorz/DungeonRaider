@@ -28,7 +28,7 @@ Now youre all setup with in the Unity environment!
 - [VS Code](https://code.visualstudio.com/) - C# text editor and compiler
 
 ## Versioning
-Current version 1.0
+Current version 1.0.1
 
 ## Authors
 - **Zac Saylor** - *Main contributor* - [saylorz](https://github.com/saylorz)
